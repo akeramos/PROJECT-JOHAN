@@ -43,6 +43,6 @@ Frontend for web app + JS backend
 
 ---
 
-## 🧩 Do kindly inform me if require further clarification
+## 🧩 PENDING: GRANT REQUEST AND AUTHORIZATION FROM FMSA
 
 **✨ Akeramos ✨**
